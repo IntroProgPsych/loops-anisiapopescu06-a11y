@@ -1,0 +1,4 @@
+name = input("Type in your name: ")
+
+while name == "":
+    print("You did not enter your name")

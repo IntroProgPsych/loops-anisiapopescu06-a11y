@@ -11,3 +11,7 @@
 # 4
 
 # Write your code here:
+n = int(input("Upper limit: "))
+
+for x in range (1,x)
+ print(x)
